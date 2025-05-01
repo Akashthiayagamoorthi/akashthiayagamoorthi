@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Akash and I'm a final year cyber security student from SRM University</h2>
+<h2 align="left">Hi 👋! Akash Here</h2>
 
 ###
-
+<h3>I'm a final year cyber security student from SRM University</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
